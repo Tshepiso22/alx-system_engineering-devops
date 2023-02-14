@@ -1,0 +1,1 @@
+Worling with shell redirections
