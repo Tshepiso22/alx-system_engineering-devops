@@ -1,0 +1,3 @@
+#!/bin/bash
+sort < ls -la > ls_cwd_content
+\n
